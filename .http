@@ -1,7 +1,7 @@
-@base_url  = https://to-do-api.vercel.app/api/v1
+@base_url  = https://to-do-cobb0gzlu-jpavon-projects.vercel.app/api/v1
 # Cambiar estos datos!
-@username  = --
-@password  = --
+@username  = "iris2"
+@password  = "iris2"
 # --------------------------
 @token     = {{ tokenRequest.response.body.accessToken }}
 @task_id   = 2

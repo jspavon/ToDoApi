@@ -11,7 +11,7 @@
     "dev": "ts-node-dev src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sebastian Henao Loaiza",
+  "author": "Jhon Steven Pavon Bedoya",
   "license": "ISC",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
